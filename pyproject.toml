@@ -1,0 +1,8 @@
+
+[project]
+name = "third-author"
+version = "0.1.0"
+
+[source_pdf_details]
+source_path = 'source_pdf_repo_/'
+

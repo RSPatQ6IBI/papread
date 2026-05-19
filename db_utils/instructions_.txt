@@ -1,0 +1,9 @@
+
+STEP 1
+bash pip install google-cloud-storage.
+
+STEP 2
+bash gcloud init
+
+STEP 3 
+bash gcloud auth application-default login
